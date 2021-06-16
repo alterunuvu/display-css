@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+.top {
+  height: 200px;
+  background-color: #ccc;
+}
+
+.main {
+  height: 200px;
+  background-color: rgb(65, 133, 165);
+}
